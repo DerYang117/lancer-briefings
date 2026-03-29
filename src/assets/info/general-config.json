@@ -5,14 +5,14 @@
   "defaultTitle": "MSMC |",
   "icon": "/faction-logos/msmc.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
-    "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
-    "ring": "Annamite",
-    "headerTitle": "Mirrorsmoke",
-    "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Contract Work",
+    "планета": "Гранья Ультима",
+    "год": "3260",
+    "cистема": "Гамма Ладе",
+    "гиперкоридор": "Каллиопа",
+    "адм. код": "кл-5523",
+    "headerTitle": "Пираньи",
+    "headerSubtitle": "Частная Военная Компания",
+    "subheaderTitle": "Контрактная Работа",
     "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
   },
   "pilotSpecialInfo": {}
